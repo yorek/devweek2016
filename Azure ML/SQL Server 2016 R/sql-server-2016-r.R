@@ -1,0 +1,46 @@
+library("e1071")
+library("RODBC")
+
+connectionString = 'driver={SQL Server};server=localhost;database=DataSets;trusted_connection=true'
+
+conn = odbcDriverConnect(connectionString)
+
+iris.train = sqlQuery(conn, "select * from dbo.Iris where use_for_training = 1")
+iris.test = sqlQuery(conn, "select * from dbo.Iris where use_for_training = 0")
+
+odbcCloseAll()
+
+nbc = naiveBayes(iris.train[,2:5], iris.train[,6])
+
+table(predict(nbc, iris.test[,2:5]), iris.test[,6], dnn=list('predicted','actual'))
+
+iris.new = iris.test[0, 2:5]
+iris.new[1,] = c(5.2, 3.7, 1.6, 0.6)
+iris.new[2,] = c(5.5, 2.5, 2.5, 2)
+iris.new[3,] = c(6.0, 3.4, 5.8, 2)
+
+print(iris.new)
+
+predict(nbc, iris.new, type="raw")
+
+result = predict(nbc, iris.new)
+result.df = as.data.frame(result)
+print(result.df)
+
+iris.new.prediction = cbind(iris.new, result.df)
+print(iris.new.prediction)
+
+modelbin = serialize(nbc, NULL)
+modelstr = paste(modelbin, collapse="")
+
+query = paste("delete from dbo.SavedModels where id = 1; insert into dbo.SavedModels values (1,convert(varbinary(max),'", modelstr, "',2))", sep = "")
+
+conn = odbcDriverConnect(connectionString)
+
+sqlQuery(conn, query)
+
+odbcCloseAll()
+
+
+
+

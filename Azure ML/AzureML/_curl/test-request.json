@@ -1,0 +1,21 @@
+{
+  "Inputs": {
+    "input1": {
+      "ColumnNames": [
+        "sepal length in cm",
+        "sepal width in cm",
+        "petal length in cm",
+        "petal width in cm"
+      ],
+      "Values": [
+        [
+          "1.0",
+          "1.2",
+          "2.3",
+          "1.5"
+        ]
+      ]
+    }
+  },
+  "GlobalParameters": {}
+}

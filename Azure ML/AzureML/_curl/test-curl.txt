@@ -1,0 +1,1 @@
+curl -v -k -H "Authorization:Bearer edPrXrdcSO7OCPIlG+JwVZlNzqUXWrvjAtfJoaiwaIAR6B1HuQSC7T+gGCroSEZh/+PyHr3dsDwtTkuv4Sa5Nw==" -H "Content-Type: application/json" -X POST --data "@test-request.json" "https://ussouthcentral.services.azureml.net/workspaces/0963c8f6c68e406b9cd3ec02411778ad/services/2e5020374cae4b49a3db4adff536de3d/execute?api-version=2.0&details=true"

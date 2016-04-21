@@ -1,0 +1,40 @@
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Work\SQL Conference\2011\DMV\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Work\Conferences\Community Days\2013\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Work\Conferences\Community Days\2013\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Work\Conferences\Community Days\2013\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Users\fabio_000\Desktop\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Users\fabio_000\Desktop\mauri\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Users\fabio_000\Desktop\mauri\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Users\fabio_000\Desktop\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+C:\Users\fabio_000\Desktop\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\mauri\mauri\DatabaseHammer\DatabaseHammer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\mauri\mauri\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DynamicSchema\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\Newtonsoft.Json.xml
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe.config
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.exe
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\DatabaseHammer.pdb
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\Newtonsoft.Json.dll
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\bin\Debug\Newtonsoft.Json.xml
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.exe
+Z:\Work\_Conferenze\DevWeek - London\2016\SQL Server 2016 JSON\DynamicSchema\EAVDatabaseHammer\DatabaseHammer\obj\x86\Debug\DatabaseHammer.pdb
